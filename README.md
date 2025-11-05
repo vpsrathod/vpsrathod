@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/vpsrathod"><img src="https://img.shields.io/badge/GitHub-vpsrathod-black?logo=github" /></a>
   <a href="https://www.linkedin.com/in/vpsr"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="mailto:vishnurp01234@gmail.com"><img src="https://img.shields.io/badge/Email-vishnuptrp.singh%40gmail.com-red?logo=gmail" /></a>
+  <a href="mailto:vishnurp01234@gmail.com"><img src="https://img.shields.io/badge/Email-vishnurp01234@gmail.com-red?logo=gmail" /></a>
 </p>
 
 ---
