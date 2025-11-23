@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/vpsrathod/rppg_hr_monitor">
-    <img src="vpsrathod/rppg_hr_monitor/images/App Interface.png" width="800" alt="HeartVision AI Preview"/>
+    <img src="vpsrathod/rppg_hr_monitor/images/App_Interface.png" width="800" alt="HeartVision AI Preview"/>
   </a>
 </p>
 
