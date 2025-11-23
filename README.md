@@ -1,8 +1,4 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/100/artificial-intelligence.png" width="80" alt="AI logo"/>
-</p>
-
 <h1 align="center">Hi, I'm <span style="color:#ff4b4b">Vishnu Pratap Singh Rajput</span> 👋</h1>
 <h3 align="center">🚀 AI/ML Developer | 💻 Python & Django Enthusiast | 🎨 Creative Technologist</h3>
 
@@ -10,6 +6,7 @@
   <a href="https://github.com/vpsrathod"><img src="https://img.shields.io/badge/GitHub-vpsrathod-black?logo=github" /></a>
   <a href="https://www.linkedin.com/in/vpsr"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
   <a href="mailto:vishnurp01234@gmail.com"><img src="https://img.shields.io/badge/Email-vishnurp01234@gmail.com-red?logo=gmail" /></a>
+  <a href="https://vpsrathod.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=vercel" /></a>  
 </p>
 
 ---
@@ -29,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/vpsrathod/rppg_hr_monitor">
-    <img src="vpsrathod/rppg_hr_monitor/images/App_Interface.png" width="800" alt="HeartVision AI Preview"/>
+    <img src="https://raw.githubusercontent.com/vpsrathod/rppg_hr_monitor/main/images/App_Interface.png" width="800" alt="HeartVision AI Preview"/>
   </a>
 </p>
 
@@ -55,7 +52,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,tensorflow,pytorch,opencv,html,css,js,react,mysql,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,tensorflow,pytorch,opencv,html,css,js,react,mysql,git,github,linux,vscode,aws" />
 </p>
 
 ---
