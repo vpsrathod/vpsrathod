@@ -33,7 +33,7 @@
 > 🎯 **Description:**  
 > HeartVision AI uses video-based rPPG signals, MediaPipe FaceMesh, and a deep neural network to estimate heart rate and blood pressure in real-time — all inside a Streamlit web app.
 
-**🔗 Live Demo:** [Streamlit App](#)  
+**🔗 Live Demo:** [Streamlit App](https://rppghrmonitor.streamlit.app/)  
 **💻 Repository:** [rppg_hr_monitor](https://github.com/vpsrathod/rppg_hr_monitor)
 
 ---
